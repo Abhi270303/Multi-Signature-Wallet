@@ -11,7 +11,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -61,13 +60,6 @@ Before you begin, ensure you have met the following requirements:
    cd ReliefDAO
    npm install
    ```
-
-## Usage
-
-Explain how to use ReliefDAO once it's been installed. Provide code examples or screenshots to help users get started.
-
-```
-```
 
 ## Contributing
 
