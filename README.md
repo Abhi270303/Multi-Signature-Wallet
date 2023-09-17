@@ -1,12 +1,10 @@
 
 
 
-```markdown
 # ReliefDAO - Building Bridges in Times of Crisis
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Table of Contents
+# Table of Contents
 
 - [About ReliefDAO](#about-reliefdao)
 - [Features](#features)
